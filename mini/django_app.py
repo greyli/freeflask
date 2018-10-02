@@ -11,3 +11,5 @@ def hello(request):
 urlpatterns = [
     url(r'^$', hello),
 ]
+
+# $ django-admin runserver --pythonpath=. --settings=django_app
