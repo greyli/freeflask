@@ -7,3 +7,4 @@ def hello():
 
 # $ export FLASK_APP=flask_app
 # $ flask run
+# http://localhost:5000

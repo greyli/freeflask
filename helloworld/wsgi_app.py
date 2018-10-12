@@ -8,3 +8,4 @@ def hello(environ, start_response):
 
 server = make_server('localhost', 5000, hello)
 server.serve_forever()
+# http://localhost:5000

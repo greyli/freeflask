@@ -13,3 +13,4 @@ if __name__ == "__main__":
     app.run()
 
 # $ python webpy_app.py
+# http://localhost:8080
