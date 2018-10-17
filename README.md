@@ -4,4 +4,4 @@
 
 * 相关文章： -
 * 演讲视频： -
-* 幻灯片： -
+* 幻灯片：[阅读](https://github.com/greyli/freeflask/blob/master/freeflask.pdf) | [下载](https://github.com/greyli/freeflask/raw/master/freeflask.pdf)
